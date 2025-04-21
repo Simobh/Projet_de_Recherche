@@ -56,3 +56,6 @@ En parallèle, un dossier **comparaison_des_algorithmes_COCO/** regroupe les not
 - **BAHLOUL Mohammed**
 
 Projet réalisé dans le cadre du module initiation à la recherche – Ecole d'ingenieurs du Littoral Cote d'Opale - Année universitaire 2024–2025
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15256494.svg)](https://doi.org/10.5281/zenodo.15256494)
+
