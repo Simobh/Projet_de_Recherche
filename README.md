@@ -12,7 +12,7 @@ Ce projet vise à comparer les performances de trois algorithmes d’optimisatio
 ## Méthodologie
 
 Les fonctions tests utilisées sont :
-- `f1` (Sphere), `f6` (Attractive Sector), `f10` (Ellipsoidal), `f15` (Rosenbrock), `f20` (Schaffer F7)
+- `f1` (Sphere), `f6` (Attractive sector), `f10` (Ellipsoid), `f15` (Rastrigin), `f20` (Schwefel x*sin(x))
 
 Les dimensions testées sont :
 - **2** et **10**
